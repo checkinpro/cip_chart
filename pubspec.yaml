@@ -1,0 +1,15 @@
+name: cip_flutter_charts
+description: CIP Flutter Charts is a data visualization library written natively in Dart.
+version: 18.2.60
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ">=0.15.0 <0.17.0"
+  vector_math: ^2.0.8
+  syncfusion_flutter_core: ^18.2.59
+
+flutter:
